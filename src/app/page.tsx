@@ -13,7 +13,7 @@ export default function Home() {
         {/* Background */}
         <div className="absolute inset-0">
           <Image
-            src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1920&q=80"
+            src="/hero-bg.jpg"
             alt="João Lutz"
             fill
             priority
